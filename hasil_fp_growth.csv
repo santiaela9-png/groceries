@@ -1,0 +1,7 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'white bread'}),frozenset({'whole milk'}),0.1111111111111111,1.0,2.25
+frozenset({'rolls/buns'}),frozenset({'banana'}),0.1111111111111111,0.5,1.5
+frozenset({'rolls/buns'}),frozenset({'other vegetables'}),0.1111111111111111,0.5,2.25
+frozenset({'other vegetables'}),frozenset({'rolls/buns'}),0.1111111111111111,0.5,2.25
+frozenset({'other vegetables'}),frozenset({'whole milk'}),0.1111111111111111,0.5,1.125
+frozenset({'curd'}),frozenset({'whole milk'}),0.1111111111111111,1.0,2.25
